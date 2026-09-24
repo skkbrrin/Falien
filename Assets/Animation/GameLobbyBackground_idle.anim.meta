@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Animation/GameLobbyBackground_idle.anim.meta
+guid: 19f66d09fda14244e9c5628457b101ea
+========
+guid: 27d70af46022ea942b90e25a02e306b4
+>>>>>>>> haru:Assets/Scripts/Rin_Gimmick/Gimmick Textures/Animation/Door close.anim.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
